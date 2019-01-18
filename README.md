@@ -1,6 +1,6 @@
 # The _etc_ repo
 
-This repo tracks System configurations used for various Computers. Where the
+This repo tracks System configurations used on various Machines. Where the
 _dotfiles_ repository tracks files in my /home environment, the _etc_ repository
 tracks files kept in /etc that configure System-wide software. The two together
 will allow me to track a personal Workspace and configurations for a System.
